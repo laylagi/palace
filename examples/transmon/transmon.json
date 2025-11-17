@@ -1,6 +1,6 @@
 {
   "Problem": {
-    "Verbose": 2,
+    "Verbose": 0,
     "Output": "postpro",
     "Type": "Eigenmode"
   },
@@ -116,7 +116,7 @@
       "Tol": 1.0e-8,
       "Target": 1
     },
-    "Order": 1,
+    "Order": 3,
     "Linear": {
       "Type": "Default",
       "Tol": 1.0e-10,
